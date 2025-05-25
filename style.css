@@ -17,6 +17,7 @@ header h1 {
 
 main {
   padding: 20px;
+  color: #666; /* 회색 텍스트 */
 }
 
 footer {
